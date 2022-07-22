@@ -1,4 +1,4 @@
-# TEMPORARY OFFLINE
+# TEMPORARY OFFLINE (Updated on 2022/Jul/22)
 
 # Tools
 - Written in [R](https://www.r-project.org/)
